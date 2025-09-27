@@ -12,10 +12,13 @@ The standard Corel5k Dataset and iaprtc12 Dataset are being used for this projec
 
 [iaprtc12](https://www-i6.informatik.rwth-aachen.de/imageclef/resources/saiaprtc12/)
 
-You may refer to this paper for more details regarding the above dataset. [The IAPR Benchmark: A New Evaluation Resource for Visual Information Systems](http://thomas.deselaers.de/publications/papers/grubinger_lrec06.pdf) ***The images from iaprtc12 has been moved to a single folder***
+You may refer to this paper for more details regarding the above dataset. [The IAPR Benchmark: A New Evaluation Resource for Visual Information Systems](http://thomas.deselaers.de/publications/papers/grubinger_lrec06.pdf) ***The images from iaprtc12 has been moved to a single folder*** 
+
+### iaprtc12 contains 20,000 natural still images with 255 labels
 
 [Corel5K Dataset](https://drive.google.com/file/d/1HDnX6yjbVC7voUJ93bCjac2RHn-Qx-5p/view?usp=sharing) ***The images from Corel5k dataset has been moved to a single folder.***
 
+### Corel5k contains 5,000 images with 374 labels
 
 
 
