@@ -19,5 +19,7 @@ You may refer to this paper for more details regarding the above dataset. [The I
 
 
 
-## Code Description
+## Sample Output
+
+<img src="images/img1.png" width="200"> <img src="images/img2.png" width="200">
 
