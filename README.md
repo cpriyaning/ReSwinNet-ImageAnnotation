@@ -19,5 +19,8 @@ You may refer to this paper for more details regarding the above dataset. [The I
 
 
 
-## Code Description
+## Sample Output
 
+![Tiger Reflection](images/tiger.jpg)
+
+![Group of People](images/people.jpg)
