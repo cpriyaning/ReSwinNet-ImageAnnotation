@@ -9,8 +9,12 @@ The standard Corel5k Dataset and iaprtc12 Dataset are being used for this projec
 
 [iaprtc12](https://www-i6.informatik.rwth-aachen.de/imageclef/resources/saiaprtc12/)
 
+You may refer to this paper for more details regarding the above dataset. [The IAPR Benchmark: A New Evaluation Resource for Visual Information Systems](http://thomas.deselaers.de/publications/papers/grubinger_lrec06.pdf)
+
 [Corel5K Dataset](https://drive.google.com/file/d/1HDnX6yjbVC7voUJ93bCjac2RHn-Qx-5p/view?usp=sharing)
 
-***All images in this dataset has been aggregated into one folder for simplicity.***
+***The images from Corel5k dataset has been moved to a single folder.***
+
+***The images from iaprtc12 has been moved to a single folder***
 ## Code Description
 
