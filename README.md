@@ -1,4 +1,7 @@
-# ReSwinNet-ImageAnnotation
+# ReSwin Net: Hybrid CNN–Transformer for Multi-Label Image Annotation
+
+ReSwin Net is a hybrid deep learning framework that combines ResNet-50 for fine-grained feature extraction with the Swin Transformer for capturing long-range dependencies. It uses a token projection module to fuse CNN and Transformer features and a label pruning strategy to handle rare or noisy labels. ReSwin Net achieves improved stability and annotation accuracy on Corel5K and IAPRTC benchmarks, outperforming existing methods.
+
 ## How to use
 
 ## Dataset Description
