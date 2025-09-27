@@ -21,6 +21,5 @@ You may refer to this paper for more details regarding the above dataset. [The I
 
 ## Sample Output
 
-![Tiger Reflection](images/tiger.jpg)
+<img src="images/img1.png" width="200"> <img src="images/img2.png" width="200">
 
-![Group of People](images/people.jpg)
