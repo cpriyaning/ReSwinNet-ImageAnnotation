@@ -6,7 +6,9 @@ ReSwin Net is a hybrid deep learning framework that combines ResNet-50 for fine-
 
 ## Dataset Description
 The standard Corel5k Dataset and iaprtc12 Dataset are being used for this project. The link is given below:
+
 [iaprtc12](https://www-i6.informatik.rwth-aachen.de/imageclef/resources/saiaprtc12/)
+
 [Corel5K Dataset](https://drive.google.com/file/d/1HDnX6yjbVC7voUJ93bCjac2RHn-Qx-5p/view?usp=sharing)
 
 ***All images in this dataset has been aggregated into one folder for simplicity.***
